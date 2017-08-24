@@ -10,7 +10,7 @@ import (
 	"os/user"
 	"path/filepath"
 
-	"gitlab.manulife.com/go-asia-common/log"
+	"github.com/elliottpolk/define/log"
 
 	"github.com/pkg/errors"
 	"github.com/urfave/cli"
